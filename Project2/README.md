@@ -9,6 +9,6 @@ Problem 2: Describe how the different terms on the right hand side of "p(V ) = p
 
 [Optional] Problem 3: Find the joint probability with MCMC.
 
-Format: ![Alt Text](Picture1))
+Format: ![Alt Text](/Users/jyoti/Desktop/Picture1.png))
 
 
