@@ -1,3 +1,5 @@
-# Problem Set 2: Exact Inference with Probabilistic Graphical Models 
+# Problem Set 2: Linear Discriminant Functions and Support Vector Machines
 
-In this problem set, I make the exact inferences about probabilistic graphical models using python.
+In this project, we train a support vector classifier using the MNIST training data set and report performance using the MNIST testing data set.
+
+We then derive the primal-dual relationship of the 1-norm soft-margin classification problem.
