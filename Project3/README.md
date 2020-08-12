@@ -1,1 +1,2 @@
-# Multi layer Neural Network and CNN on MNIST digits
+# Exact Inference with Probabilistic Graphical Models
+
